@@ -40,7 +40,7 @@ function AppointmentBooking() {
           </select>
         </label>
         <br /><br />
-        <button type="submit">Book Appointment</button>
+        <button type="submit">Book an Appointment</button>
       </form>
 
       {isModalOpen && (
